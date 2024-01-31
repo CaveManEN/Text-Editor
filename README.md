@@ -42,9 +42,7 @@ This repository contains the source code for a command-line-based text editor ap
 
 Access the text editor through your browser by navigating to `localhost` with the port specified in your terminal after starting the application. For detailed functionality and additional commands, refer to the application documentation within the repository.
 
-## Live Application
 
-Experience the text editor in action: [https://text-editor-heoc.onrender.com](https://text-editor-heoc.onrender.com)
 
 
 
