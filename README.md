@@ -44,5 +44,9 @@ Access the text editor through your browser by navigating to `localhost` with th
 
 
 
+Certainly! It seems like the URL was mistakenly repeated and formatted incorrectly. Here's the corrected version for the Live Application section:
 
+## Live Application
+
+Experience the text editor in action: [https://text-editor-jiwl.onrender.com](https://text-editor-jiwl.onrender.com)
 
