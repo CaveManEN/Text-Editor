@@ -4,13 +4,15 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start:dev": "",
-    "start": "",
-    "server": "",
-    "build": "",
-    "install": "",
-    "client": ""
+    "develop": "concurrently \"npm run server\" \"npm run client\"",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "build": "cd client && npm run build",
+    "client": "cd client && npm start",
+    "deploy": "npm run build && npm start"
   },
+  
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
